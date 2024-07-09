@@ -112,20 +112,18 @@
 
     <!-- Button end -->
 
+    <!-- Button -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Forgot password :( "
-        android:layout_marginLeft="20dp"
-        android:layout_marginRight="30dp"
-        android:textColor="#0000ff"
         android:layout_below="@+id/login"
-        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginRight="30dp"
+        android:text="Forgot password :( "
         android:textAlignment="center"
-        >
-    </TextView>
+        android:textColor="#0000ff"></TextView>
 
-    <!-- Button -->
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="50dp"
