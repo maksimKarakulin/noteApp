@@ -122,7 +122,11 @@
         android:layout_marginRight="30dp"
         android:text="Forgot password :( "
         android:textAlignment="center"
-        android:textColor="#0000ff"></TextView>
+        android:textColor="#0000ff"
+        android:id="@+id/goToForgotPassword"
+        >
+
+    </TextView>
 
     <RelativeLayout
         android:layout_width="match_parent"
